@@ -1,0 +1,75 @@
+.sidebar {
+  flex: 1;
+  /* height: 100vh; */
+  position: sticky;
+  top: 100;
+  background-color: rgb(240, 240, 240);
+  border-radius: 30px;
+
+}
+
+.sidebarWrapper {
+  padding: 20px;
+  color: #555;
+}
+.sb-menu {
+  margin-bottom: 0px;
+  /* background-color: #555; */
+  border-radius: 10px;
+}
+.sb-title {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.sb-list {
+  list-style: none;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  border-radius: 20px;
+
+}
+.sb-item {
+  padding: 8px;
+  cursor: pointer;
+  display: flex;
+  border-radius: 10px;
+  align-items: center;
+  gap: 10px;
+ 
+
+}
+.sb-item.active,
+.sb-item:hover {
+
+  background-color: rgba(207, 207, 207, 0.674);
+}
+.sb-icon {
+  width: 35px;
+  height: 33px;
+
+}
+.sb-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+}
+.sb-order{
+  align-items: center;
+  justify-content: space-between;
+
+}
+.bag{
+  border-radius: 100%;
+  background-color: var(--maincolor);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  font-size: 16px;
+}

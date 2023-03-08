@@ -1,0 +1,47 @@
+.userlist {
+  width: 100%;
+  padding: 20px;
+  border-radius: 30px;
+  margin-top: 40px;
+
+  -webkit-box-shadow: 0px 7px 39px 1px rgba(0, 0, 0, 0.14);
+  box-shadow: 0px 7px 30px 1px rgba(0, 0, 0, 0.14);
+}
+
+.ul-container {
+  display: grid;
+  grid-template-rows: repeat(10, 50px);
+  grid-template-columns: 5rem 1fr 1fr 1fr 1fr 1fr;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem 0px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  padding: 10px;
+}
+.item-0 {
+  background-color: white;
+}
+
+.item-5 {
+  width: 60%;
+  background-color: rgba(83, 255, 106, 0.455);
+  height: 50%;
+  margin: 1rem 2rem;
+}
+.ul-profile {
+  width: 60%;
+  height: 60px;
+  align-items: center;
+  border-radius: 100%;
+}
+/* .profile {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+} */
