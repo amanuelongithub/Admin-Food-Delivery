@@ -26,7 +26,7 @@ export default function UserList() {
         <div className='item item-2'>Order</div>
         <div className='item item-3'>Rate</div>
         <div className='item item-4'>Date</div>
-        <div className='item item-4'>Dileverd</div>
+        <div className='item item-4'>is Dileverd</div>
 
         <div className='profile'>
           {" "}
@@ -35,7 +35,7 @@ export default function UserList() {
         <div className='item item-1'>Amanuel Gulelat</div>
         <div className='item item-2'>itlina pizza</div>
         <div className='item item-3'>4.5</div>
-        <div className='item item-4'>7:45</div>
+        <div className='item item-4'>Today 7:45</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -45,7 +45,7 @@ export default function UserList() {
         <div className='item item-1'>Ahadu Kassahun</div>
         <div className='item item-2'>Beef fry</div>
         <div className='item item-3'>4.5</div>
-        <div className='item item-4'>2:35</div>
+        <div className='item item-4'>Yesturday 2:35</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -55,7 +55,7 @@ export default function UserList() {
         <div className='item item-1'>Selam Mathios</div>
         <div className='item item-2'>Hunter's chiken </div>
         <div className='item item-3'>3.5</div>
-        <div className='item item-4'>8:35</div>
+        <div className='item item-4'>Mon 8:35</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -65,7 +65,7 @@ export default function UserList() {
         <div className='item item-1'>Amanuel Gulelat</div>
         <div className='item item-2'>itlina pizza</div>
         <div className='item item-3'>4.5</div>
-        <div className='item item-4'>7:45</div>
+        <div className='item item-4'>Tue 7:45</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -74,8 +74,8 @@ export default function UserList() {
         </div>
         <div className='item item-1'>Kalkidan teka</div>
         <div className='item item-2'>Beef fry</div>
-        <div className='item item-3'>4.5</div>
-        <div className='item item-4'>2:35</div>
+        <div className='item item-3'>Tue 4.5</div>
+        <div className='item item-4'>Wed 2:35</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -95,7 +95,7 @@ export default function UserList() {
         <div className='item item-1'>Kidus Elias</div>
         <div className='item item-2'>Fish fride</div>
         <div className='item item-3'>4.5</div>
-        <div className='item item-4'>7:45</div>
+        <div className='item item-4'>Thu 7:45</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -105,7 +105,7 @@ export default function UserList() {
         <div className='item item-1'>Abel Kassahun</div>
         <div className='item item-2'>Burger</div>
         <div className='item item-3'>4.5</div>
-        <div className='item item-4'>2:35</div>
+        <div className='item item-4'>Fri 2:35</div>
         <div className='item item-5'>Dliverd</div>
 
         <div className='profile'>
@@ -115,7 +115,7 @@ export default function UserList() {
         <div className='item item-1'>Yman Mathios</div>
         <div className='item item-2'>Pizza </div>
         <div className='item item-3'>3.5</div>
-        <div className='item item-4'>8:35</div>
+        <div className='item item-4'>Mon 8:35</div>
         <div className='item item-5'>Dliverd</div>
       </div>
     </div>
